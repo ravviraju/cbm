@@ -1,0 +1,1 @@
+<?php echo $_SESSION['userid'].$_SESSION['utype'];?>faikled

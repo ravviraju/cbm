@@ -1,0 +1,20 @@
+[28-Dec-2018 16:40:10 UTC] PHP Notice:  Undefined variable: db in /home/kblcfyauelba/public_html/confirm.php on line 5
+[28-Dec-2018 16:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchRow() on null in /home/kblcfyauelba/public_html/confirm.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kblcfyauelba/public_html/confirm.php on line 5
+[28-Dec-2018 16:40:33 UTC] PHP Notice:  Undefined variable: db in /home/kblcfyauelba/public_html/confirm.php on line 5
+[28-Dec-2018 16:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchRow() on null in /home/kblcfyauelba/public_html/confirm.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kblcfyauelba/public_html/confirm.php on line 5
+[28-Dec-2018 16:41:35 UTC] PHP Notice:  Undefined variable: db in /home/kblcfyauelba/public_html/confirm.php on line 5
+[28-Dec-2018 16:41:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchRow() on null in /home/kblcfyauelba/public_html/confirm.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kblcfyauelba/public_html/confirm.php on line 5
+[28-Dec-2018 16:42:10 UTC] PHP Notice:  Undefined variable: db in /home/kblcfyauelba/public_html/confirm.php on line 5
+[28-Dec-2018 16:42:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchRow() on null in /home/kblcfyauelba/public_html/confirm.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kblcfyauelba/public_html/confirm.php on line 5
